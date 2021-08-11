@@ -1,4 +1,4 @@
-# Dark-Colony
+# Dark-Colony (for Gothic 2)
 Old G2 project from 2014-2015.
 
 This ZEN contains full colony mixing in G1 and G2 style. 
